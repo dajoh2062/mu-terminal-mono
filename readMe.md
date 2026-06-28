@@ -9,3 +9,10 @@ Hetzner VPS
   ├─ Python marketData container
   └─ Postgres container
   
+
+Docker Postgres       → localhost:5432
+Python FastAPI        → localhost:8001
+Spring Boot API       → localhost:8080
+React frontend        → localhost:5173
+
+

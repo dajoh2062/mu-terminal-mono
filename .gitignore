@@ -1,0 +1,20 @@
+# Python
+backend/marketData/.venv/
+__pycache__/
+*.pyc
+
+# Java
+target/
+backend/api/target/
+
+# Node
+node_modules/
+dist/
+
+# Environment files
+.env
+.env.*
+
+# OS / IDE
+.DS_Store
+.idea/
